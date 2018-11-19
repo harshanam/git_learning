@@ -1,6 +1,1 @@
-first commit to branch master
-branch master.
-brnach mater 3rd commit 
-branch one
-seccond commit to branch one
-thrid commit to branch one
+branch two
