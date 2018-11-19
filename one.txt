@@ -3,3 +3,5 @@ branch master.
 brnach mater 3rd commit 
 
 branch one
+branch one
+seccond commit to branch one
